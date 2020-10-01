@@ -1,0 +1,1 @@
+{"ast":null,"code":"function about() {\n  return \"ABOUT RED DOT\";\n}","map":{"version":3,"sources":["/Users/isaackbrian/Documents/WORKSPACE/Dev/rds-app/pages/about.js"],"names":["about"],"mappings":"AAAA,SAASA,KAAT,GAAiB;AAChB,SAAO,eAAP;AACA","sourcesContent":["function about() {\n\treturn \"ABOUT RED DOT\";\n}\n"]},"metadata":{},"sourceType":"script"}
